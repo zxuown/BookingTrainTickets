@@ -32,7 +32,7 @@ public class ResultActivity  extends AppCompatActivity {
                         "\nTo: " + getIntent().getStringExtra("to") +
                  "\nDate: " + getIntent().getStringExtra("date") +
                         "\nTime: " + getIntent().getStringExtra("time") +
-                        "\nSeatbelts: " + getIntent().getStringExtra("seatbelts") +
+                        "\nSeats: " + getIntent().getStringExtra("seats") +
                         "\nPrice: " + getIntent().getIntExtra("price", 0));
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {

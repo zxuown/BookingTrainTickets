@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
             intent.putExtra("from", spinnerFrom.getSelectedItem().toString());
             intent.putExtra("to", spinnerTo.getSelectedItem().toString());
             intent.putExtra("date", ((Button)findViewById(R.id.pickDate)).getText());
-            intent.putExtra("seatbelts", tvCount.getText());
+            intent.putExtra("seats", tvCount.getText());
             intent.putExtra("time", ((Button)findViewById(R.id.pickTime)).getText());
             intent.putExtra("price", counter * 35);
             startActivity(intent);
