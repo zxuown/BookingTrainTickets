@@ -3,11 +3,15 @@
 Welcome to my project!
 
 ## Main
-<img src="https://github.com/zxuown/BookingTrainTickets/blob/master/bookingTrainTickets1.png" alt="Logo" width="200"/>
+<div align="center">
+    <img src="https://github.com/zxuown/BookingTrainTickets/blob/master/bookingTrainTickets1.png" alt="Main" width="200"/>
+</div>
 
 ## Result
-<img src="https://github.com/zxuown/BookingTrainTickets/blob/master/bookingTrainTickets2.png" alt="Logo" width="200"/>
+<div align="center">
+    <img src="https://github.com/zxuown/BookingTrainTickets/blob/master/bookingTrainTickets2.png" alt="Result" width="200"/>
+</div>
 
 ## Description
 
-Simple booking train tikets in anroid.
+Simple booking train tickets in Android.
